@@ -39,5 +39,3 @@ pages:
  - 'List of abbreviations': 'Additional/Abbr.md'
  - 'FAQ': 'Additional/BLE_FAQ.md'
  - 'Links': 'Additional/Links.md'
-
-extra_css: ['FullCSS.css']
