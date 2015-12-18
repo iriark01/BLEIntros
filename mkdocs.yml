@@ -3,7 +3,7 @@ site_name: Introduction to mbed BLE
 docs_dir: Docs
 
 pages:
-- Introduction to mbed BLE: 'index.md'
+- Testing new structure: 'index.md'
 - Introduction to BLE:
  - 'Section overview': 'Introduction/Overview.md'
  - 'mbed BLE for begginers': 'Introduction/BeginnersIntro.md'
@@ -38,6 +38,6 @@ pages:
  - 'Section overview': 'Additional/Overview.md'
  - 'List of abbreviations': 'Additional/Abbr.md'
  - 'FAQ': 'Additional/BLE_FAQ.md'
- - 'Links':'Additional/Links.md'
+ - 'Links': 'Additional/Links.md'
 
 extra_css: ['FullCSS.css']
